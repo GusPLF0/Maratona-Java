@@ -1,0 +1,21 @@
+Herança = acomplamento forte do seu código
+
+Qualquer alteração que você faz na classe pai, você acaba tendo que se preocupar com a classe filha!
+
+Usa-se quando:
+    - Quer usar polimorfismo
+    - Quando você quer extender uma funcionalidade de uma classe
+
+
+Ordem de execução:
+
+        // 1° - Bloco de inicialização estáticos do pai é executado
+        // 2° - Bloco de inicialização estáticos do filho
+        // 3° - Alocado espaço em memória pro objeto da classe pai
+        // 4° - Cada atributo da classe pai é criado e inicializado com valores default ou oq for passado na classe pai
+        // 5° - Bloco de inicialização do pai é executado
+        // 6° - Construtor do pai é executado
+        // 7° - Alocado espaço em memória pro objeto da classe filha
+        // 8° - Cada atributo da classe filha é criado e inicializado com valores default ou oq for passado na classe filha
+        // 9° - Bloco de inicialização do filho é executado
+        // 10° - Construtor do filho é executado

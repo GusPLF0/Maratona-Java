@@ -1,0 +1,7 @@
+-- Quando usada em variáveis do tipo primitivo = Variável não pode ser alterada
+
+-- Quando usada em variáveis do tipo referencia = Referência não pode ser alterada
+
+-- Quando usada em classes = Classe não pode ser extendida (Esteril)
+
+-- Quando usado em métodos = Método não pode sofrer um Overrite(Sobrescrever)

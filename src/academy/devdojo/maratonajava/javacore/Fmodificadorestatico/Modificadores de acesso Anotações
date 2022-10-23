@@ -1,0 +1,5 @@
+PRIVATE = Apenas a própria classe
+
+PROTECTED = Todas as classes no mesmo pacote + As classes filhas onde estiverem
+
+PUBLIC = Liberado a porra toda

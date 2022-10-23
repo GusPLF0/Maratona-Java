@@ -1,0 +1,10 @@
+-- Asssociações são semelhantes as tabelas em bancos de dados!
+
+-- 1-1 , N-N, 1-N ou N-1
+
+-- Além disso temos as obrigatoriedades, que também devem ser pensadas
+
+
+Relação de 1 - N
+
+Jogador N - 1 Time (JogadorTest02.java) []
