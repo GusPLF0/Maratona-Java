@@ -20,4 +20,8 @@ public class Desenvolvedor extends Funcionario{
     }
 
 
+    @Override
+    public void imprime() {
+
+    }
 }
