@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.Minterface.dominio;
+package academy.devdojo.maratonajava.javacore.Minterface.dominio;
 
 // Uma classe pode implementar mais de uma interace
 public class FileLoader implements DataLoader, DataRemover{

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.Minterface.dominio;
+package academy.devdojo.maratonajava.javacore.Minterface.dominio;
 
 // Em ‘interfaces’ todos os métodos são como padrão publicos e abstratos
 // Interfaces são contratos!
